@@ -1,0 +1,103 @@
+commit 9a98e303ff348821fc23ecd0aa82746e7a7ac337
+Author: S V DHANUSH <dhanush20033@gmail.com>
+Date:   Wed Mar 22 17:44:05 2023 +0530
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..536dd6c
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++EXPECTED GRADUATION YEAR: 2025      FIRST JOB TITLE: IPS OFFICER
+\ No newline at end of file
+
+commit 0daa8bfa9d8cc338288ce323a0df5024b6e18fa8
+Author: S V DHANUSH <dhanush20033@gmail.com>
+Date:   Wed Mar 22 17:16:46 2023 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 0d6f2ea..7c64a96 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,2 +1,3 @@
+ S V DHANUSH  COMPUTER SCIENCE AND ENGINEERING
+-FAV RESTAURANT: BAWARCHI RESTAURANT     FAV MOVIE: SITA RAMAM
+\ No newline at end of file
++FAV RESTAURANT: BAWARCHI RESTAURANT     FAV MOVIE: SITA RAMAM
++FAV COLOUR: BLACK
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 536dd6c..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-EXPECTED GRADUATION YEAR: 2025      FIRST JOB TITLE: IPS OFFICER
+\ No newline at end of file
+
+commit af20253385719787bb261168b0781aa59db4fd3b
+Author: S V DHANUSH <dhanush20033@gmail.com>
+Date:   Wed Mar 22 16:54:10 2023 +0530
+
+    commiting a new file named file2 which contains my expected graduation year and my first job title
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..536dd6c
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++EXPECTED GRADUATION YEAR: 2025      FIRST JOB TITLE: IPS OFFICER
+\ No newline at end of file
+
+commit 2e014f6ff1a996d366bc168cdcb05f8e59a7a24e
+Author: S V DHANUSH <dhanush20033@gmail.com>
+Date:   Wed Mar 22 16:00:43 2023 +0530
+
+    Added favourite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 11d73c8..0d6f2ea 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+-S V DHANUSH  COMPUTER SCIENCE AND ENGINEERING
+\ No newline at end of file
++S V DHANUSH  COMPUTER SCIENCE AND ENGINEERING
++FAV RESTAURANT: BAWARCHI RESTAURANT     FAV MOVIE: SITA RAMAM
+\ No newline at end of file
+
+commit d06100f51d3f28d089e8a165f77517e4ce69cc5d
+Author: S V DHANUSH <dhanush20033@gmail.com>
+Date:   Wed Mar 22 15:48:09 2023 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 572c4e1..11d73c8 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-S V DHANUSH  BT21CSE128
+\ No newline at end of file
++S V DHANUSH  COMPUTER SCIENCE AND ENGINEERING
+\ No newline at end of file
+
+commit a06d379ab4001e9115e5f0f9a040731cb3a86b45
+Author: S V DHANUSH <dhanush20033@gmail.com>
+Date:   Wed Mar 22 15:24:47 2023 +0530
+
+    committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..572c4e1
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++S V DHANUSH  BT21CSE128
+\ No newline at end of file
